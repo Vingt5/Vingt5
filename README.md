@@ -13,42 +13,33 @@
 
 ---
 
-## 🛡️ About Me
+## 🛡️ Cybersecurity & Infrastructure Stack
 
-- 🔐 Passionate about **cybersecurity & infrastructure protection**
-- 🖥️ Building skills in **SOC operations, threat detection & incident response**
-- 🧪 Practicing in lab environments (Kali Linux, Metasploitable, virtual labs)
-- ⚙️ Automating security tasks with Python & scripting
-- 🎯 Goal: join a **Blue Team / SOC** and contribute to protecting systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-FF6F00?style=for-the-badge&logo=vmware" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+</p>
 
 ---
 
-## 🧰 Technical Skills
+## 🛡️ About Me
 
-### 🔹 Systems & Networks
-- Windows Server / Linux  
-- Network administration & architecture  
-- Virtualization & infrastructure management  
-
-### 🔹 Cybersecurity
-- Security monitoring & SOC fundamentals  
-- Vulnerability analysis  
-- Incident response basics  
-- Pentesting fundamentals  
-
-### 🔹 Tools & Technologies
-- Kali Linux  
-- Wireshark  
-- Docker  
-- VirtualBox / VMware  
-- MySQL  
-- Git & GitHub  
-
-### 🔹 Programming & Scripting
-- Python  
-- C / C++  
-- Bash  
-- HTML / CSS / JavaScript (basics)  
+🔐 Passionate about protecting systems and infrastructures  
+🛡️ Training in SOC operations, threat detection & incident response  
+🧪 Practicing in lab environments (Kali Linux, virtual labs, security testing)  
+⚙️ Automating security tasks with Python & scripting  
+🎯 Goal: contribute to a Blue Team / SOC and strengthen defensive security  
 
 ---
 
@@ -60,8 +51,8 @@
 🔹 **Database security & service continuity**  
 → backup strategy, integrity & resilience  
 
-🔹 **Infrastructure & incident monitoring app**  
-→ network supervision & alert logic  
+🔹 **Infrastructure & incident monitoring**  
+→ network supervision & alert mechanisms  
 
 👉 More projects coming soon.
 
@@ -69,20 +60,20 @@
 
 ## 📜 Certifications & Learning
 
-- TOEIC B2–C1 (2026)  
-- PIX Digital Skills Certification  
+✔ TOEIC B2–C1 (2026)  
+✔ PIX Digital Skills Certification  
 
 🎯 Preparing:
+
 - CompTIA Security+  
 - Cisco CyberOps Associate  
 
 ---
 
-
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/kerim-unal1/  
-- Email: kerim.unal@ecoles-epsi.net  
+📧 kerim.unal@ecoles-epsi.net  
+💼 www.linkedin.com/in/kerim-unal1  
 
 ---
 
