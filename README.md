@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="cyber.gif" width="650"/>
+  <img src="cyber.gif" width="650" style="border-radius:10px;"/>
 </p>
 
 <br>
