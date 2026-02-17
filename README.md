@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kerim</h1>
 <h3 align="center">Cybersecurity Student | SOC & Blue Team | Systems & Network Security</h3>
 
+<br>
+
 <p align="center">
   <img src="cyber.gif" width="650"/>
 </p>
