@@ -7,6 +7,10 @@
 📍 Lyon, France  
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vingt5&color=blue" />
+</p>
+
 ---
 
 ## 🛡️ About Me
@@ -22,29 +26,29 @@
 ## 🧰 Technical Skills
 
 ### 🔹 Systems & Networks
-- Windows Server / Linux
-- Network administration & architecture
-- Virtualization & infrastructure management
+- Windows Server / Linux  
+- Network administration & architecture  
+- Virtualization & infrastructure management  
 
 ### 🔹 Cybersecurity
-- Security monitoring & SOC fundamentals
-- Vulnerability analysis
-- Incident response basics
-- Pentesting fundamentals
+- Security monitoring & SOC fundamentals  
+- Vulnerability analysis  
+- Incident response basics  
+- Pentesting fundamentals  
 
 ### 🔹 Tools & Technologies
-- Kali Linux
-- Wireshark
-- Docker
-- VirtualBox / VMware
-- MySQL
-- Git & GitHub
+- Kali Linux  
+- Wireshark  
+- Docker  
+- VirtualBox / VMware  
+- MySQL  
+- Git & GitHub  
 
 ### 🔹 Programming & Scripting
-- Python
-- C / C++
-- Bash
-- HTML / CSS / JavaScript (basics)
+- Python  
+- C / C++  
+- Bash  
+- HTML / CSS / JavaScript (basics)  
 
 ---
 
@@ -65,31 +69,32 @@
 
 ## 📜 Certifications & Learning
 
-- TOEIC B2–C1 (2026)
-- PIX Digital Skills Certification
-- Preparing:
-  - CompTIA Security+
-  - Cisco CyberOps Associate
+- TOEIC B2–C1 (2026)  
+- PIX Digital Skills Certification  
+
+🎯 Preparing:
+- CompTIA Security+  
+- Cisco CyberOps Associate  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vingt5&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vingt5&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingt5&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingt5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/kerim-unal1/
-- Email: kerim.unal.contact@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kerim-unal1/  
+- Email: kerim.unal.contact@gmail.com  
 
 ---
 
-⭐ *Always learning. Always improving. Always securing.*
+🔐 **Learning. Defending. Securing.**
