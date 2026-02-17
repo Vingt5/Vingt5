@@ -2,6 +2,10 @@
 <h3 align="center">Cybersecurity Student | SOC & Blue Team | Systems & Network Security</h3>
 
 <p align="center">
+  <img src="cyber.gif" width="650"/>
+</p>
+
+<p align="center">
 🎓 EPSI Lyon — CYB3R XP Cybersecurity Track  
 🔍 Looking for a cybersecurity internship (Apr–Sep 2026)  
 📍 Lyon, France  
