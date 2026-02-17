@@ -5,6 +5,8 @@
   <img src="cyber.gif" width="650"/>
 </p>
 
+<br>
+
 <p align="center">
 🎓 EPSI Lyon — CYB3R XP Cybersecurity Track  
 🔍 Looking for a cybersecurity internship (Apr–Sep 2026)  
