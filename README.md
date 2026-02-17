@@ -82,7 +82,7 @@
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/kerim-unal1/  
-- Email: kerim.unal.contact@gmail.com  
+- Email: kerim.unal@ecoles-epsi.net  
 
 ---
 
