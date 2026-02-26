@@ -23,19 +23,26 @@
 ## 🛡️ Cybersecurity & Infrastructure Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtualization-FF6F00?style=for-the-badge&logo=vmware" />
+  <img src="https://img.shields.io/badge/Virtualization-FF6A00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Threat_Detection-008000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Log_Analysis-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM-0047AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge" />
 </p>
 
 ---
