@@ -50,13 +50,22 @@
 ## 🛡️ About Me
 
 🔐 Passionate about protecting systems and infrastructures  
-🛡️ Training in SOC operations, threat detection & incident response  
+🛡️ Training in SOC operations, threat detection, and incident response  
 🧪 Practicing in lab environments (Kali Linux, virtual labs, security testing)  
 ⚙️ Automating security tasks with Python & scripting  
-🎯 Goal: contribute to a Blue Team / SOC and strengthen defensive security  
+🎯 Goal: contribute to a Blue Team / SOC environment and strengthen defensive security  
 
 ---
 
+## 🔍 Current Focus
+
+- Root-Me challenges & defensive security practice  
+- Log analysis & threat detection techniques  
+- Building Blue Team monitoring tools  
+- Preparing for Security+ & CyberOps certifications
+
+---
+  
 ## 🧪 Cybersecurity Projects
 
 🔹 **Security monitoring & vulnerability scanning**  
@@ -72,19 +81,18 @@
 
 ---
 
-## 📜 Certifications & Learning
+## 🎓 Certifications & Learning
 
-✔ TOEIC B2–C1 (2026)  
+✔ TOEIC B2-C1 (2026)  
 ✔ PIX Digital Skills Certification  
 
-🎯 Preparing:
+### Currently Preparing:
 
 - CompTIA Security+ (SY0-701)  
 - Cisco CyberOps Associate  
-- Google Cybersecurity Engineer
+- Google Cybersecurity Engineer  
 - Google Cloud Digital Leader
+
 ---
 
-
-🔐 **Learning. Defending. Securing.**
-
+🛡️ Passionate about defensive security, monitoring, and threat detection.
